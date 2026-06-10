@@ -6,6 +6,14 @@ This Power BI project features interactive dashboards that analyze credit card d
 ## About this Dataset
 The dataset includes credit card transaction records and customer data, such as transaction amounts, dates, expense categories, and payment history. Updated weekly, the dashboard provides real-time insights into key performance metrics and trends, enabling effective monitoring and analysis of credit card operations.
 
+## Screenshots
+
+### Transaction Report
+![Credit Card Transaction Report](Credit%20Card%20Transaction%20Report.png)
+
+### Customer Report
+![Credit Card Customer Report](Credit%20Card%20Customer%20Report.png)
+
 ## Tools Used
 - **Excel**: Data preparation and analysis.
 - **SQL**: Data extraction and management.
